@@ -3,10 +3,10 @@ Olá, criei esse repositório para que possam me acompanhar na jornada de aprend
 Aqui você não encontrará nenhum projeto finalizado, apenas anotações e acompanhará minha evolução nesse processo, tenho outros repositórios de outras linguagens e estudos também, fique a vontade para me acompanhar nessa jornada!
 
 ## Checklist de aprendizado
-- [ ] Introdução a JavaScript
-  - [ ] O que é JavaScript?
-  - [ ] História do JavaScript
-  - [ ] Versões
+- [x] Introdução a JavaScript
+  - [x] O que é JavaScript?
+  - [x] História do JavaScript
+  - [x] Versões
 - [x] Variáveis
   - [x] Declarações
   - [x] Regras de nomeação
@@ -67,7 +67,6 @@ Aqui você não encontrará nenhum projeto finalizado, apenas anotações e acom
     - [ ] Recursão
     - [ ] Lexical Scoping
     - [ ] Closures
-    - [ ] 
   - [ ] Built-in Functions
 - [ ] Strict Mode
 - [ ] Keywords
